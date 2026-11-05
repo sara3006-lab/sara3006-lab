@@ -18,7 +18,7 @@ I'm passionate about cybersecurity, network infrastructure, SOC operations, clou
 - 🤖 Interested in AI-powered cybersecurity and security automation
 - 🌱 Always learning, experimenting, and building new projects
 - 📍 Tunisia
-- 💼 Open to PFE internships, opportunities, and collaborations
+- 💼 Open to PFE internships and job opportunities
 
 ---
 
